@@ -98,7 +98,7 @@ const HistoryPage = () => {
 
   return (
     <div className="bg-gradient-to-br from-indigo-700 via-purple-700 to-pink-600 text-white font-sans min-h-screen px-6 py-12">
-      <h1 className="text-4xl font-extrabold text-center mb-8 text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 to-purple-600">
+      <h1 className="text-4xl font-extrabold text-center mb-8 text-amber-600 bg-clip-text bg-gradient-to-r from-indigo-500 to-purple-600">
         Your Chat History
       </h1>
       <div className="mt-8 text-center">
